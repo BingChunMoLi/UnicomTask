@@ -1,7 +1,4 @@
 
-# 使用方式
-
-## Github Actions（推荐）
 
 ### 2.准备需要的参数
 
@@ -56,11 +53,6 @@ USERS_COVER | config.json中内容
 
 ![](https://draw-static.vercel.app/UnicomTask/进行一次push操作.gif)
 
-## 腾讯云函数（推荐）
-
-### 1.fork本项目
-
-项目地址：[srcrs/UnicomTask](https://github.com/srcrs/UnicomTask)
 
 ### 2.准备需要的参数
 
