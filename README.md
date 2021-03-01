@@ -97,13 +97,3 @@ USERS_COVER | config.json中内容
 在最新的代码中，已经加上自动同步上游代码的`Action`，将会定时在每周五`16`点执行，文件地址在`.github/workflows/auto_merge.yml`。
 
 同时您也可以安装[pull](https://github.com/apps/pull)应用，也可实现自动同步上游代码。
-
-# 申明
-
-本项目仅用于学习。
-
-# 参考项目
-
-[mixool/HiCnUnicom](https://github.com/mixool/HiCnUnicom)，感谢该项目对于登录部分的思路
-
-[happy888888/BiliExp](https://github.com/happy888888/BiliExp)，参考了该项目的云函数实现
